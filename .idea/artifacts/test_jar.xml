@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_jar</output-path>
+    <root id="archive" name="RhythmGamesCalculator.jar">
+      <element id="module-output" name="Rhythm Games' Calculator" />
+      <element id="library" level="application" name="test" />
+    </root>
+  </artifact>
+</component>
